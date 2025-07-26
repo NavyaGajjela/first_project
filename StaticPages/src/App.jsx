@@ -1,6 +1,7 @@
 
+//App.jsx
 
-function Page(){
+function App(){
     return(
     <>
     <main>
@@ -18,4 +19,5 @@ function Page(){
     </>
     );
 }
-export default Page;
+export default App;
+
